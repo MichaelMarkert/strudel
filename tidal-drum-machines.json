@@ -1,5 +1,5 @@
 {
-  "_base": "http://192.168.178.62:6543/dough-samples/tidal-drum-machines/main/machines/",
+  "_base": "https://raw.githubusercontent.com/geikha/dough-samples/tidal-drum-machines/main/machines/",
   "AJKPercusyn_bd": ["AJKPercusyn/ajkpercusyn-bd/Bassdrum.wav"],
   "AJKPercusyn_cb": [
     "AJKPercusyn/ajkpercusyn-cb/Cowbell.wav",
