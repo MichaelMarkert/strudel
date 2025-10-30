@@ -1,5 +1,5 @@
 {
-  "_base": "https://raw.githubusercontent.com/geikha/tidal-drum-machines/tree/main/machines",
+  "_base": "https://raw.githubusercontent.com/geikha/tidal-drum-machines/tree/main/machines/",
   "AJKPercusyn_bd": ["AJKPercusyn/ajkpercusyn-bd/Bassdrum.wav"],
   "AJKPercusyn_cb": [
     "AJKPercusyn/ajkpercusyn-cb/Cowbell.wav",
